@@ -1,2 +1,2 @@
 # Shopping List
-Shopping list mobile app.
+Shopping list android mobile app in Flutter.
