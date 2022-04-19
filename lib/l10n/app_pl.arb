@@ -1,0 +1,21 @@
+{
+    "homeScreenTitle": "Listy zakupów",
+    "addListTooltip": "Dodaj listę",
+    "newProductScreenTitle": "Dodaj nowy produkt",
+    "submit": "OK",
+    "productNameHintText": "nazwa",
+    "emptyNameValidationError": "Nazwa nie może być pusta!",
+    "addProductTooltip": "Dodaj nowy produkt",
+    "productsScreenTitle": "Produkty",
+    "searchHintText": "szukaj",
+    "addItemTooltip": "dodaj przedmioty",
+    "nameDialogText": "Wprowadź nazwę listy: ",
+    "nameHintText": "nazwa",
+    "dialogSubmitText": "OK",
+    "quantityDialogText": "Wprowadź ilość produktu ",
+    "quantityHintText": "ilość",
+    "foodCatheogryText": "jedzenie",
+    "otherCatheogryText": "inne",
+    "beveragesCatheogryText": "napoje",
+    "officeSuppliesCatheogryText": "artykuły biurowe"  
+}

@@ -1,0 +1,21 @@
+{
+    "homeScreenTitle": "Shopping lists",
+    "addListTooltip": "Add list",
+    "newProductScreenTitle": "Add new product",
+    "submit": "OK",
+    "productNameHintText": "name",
+    "emptyNameValidationError": "Name can not be empty!",
+    "addProductTooltip": "Add new product",
+    "productsScreenTitle": "Products",
+    "searchHintText": "search",
+    "addItemTooltip": "Add item",
+    "nameDialogText": "Enter list name: ",
+    "nameHintText": "name",
+    "dialogSubmitText": "OK",
+    "quantityDialogText": "Enter item quantity: ",
+    "quantityHintText": "quantity",
+    "foodCatheogryText": "food",
+    "otherCatheogryText": "other",
+    "beveragesCatheogryText": "beverages",
+    "officeSuppliesCatheogryText": "office supplies"  
+}
